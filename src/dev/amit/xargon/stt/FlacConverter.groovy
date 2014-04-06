@@ -1,3 +1,4 @@
+#!/usr/bin/env groovy
 package dev.amit.xargon.stt;
 
 import dev.amit.xargon.HostInfo;
